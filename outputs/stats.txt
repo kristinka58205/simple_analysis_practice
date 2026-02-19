@@ -1,0 +1,8 @@
+ОТЧЁТ ПО СТАТИСТИЧЕСКОМУ АНАЛИЗУ (SimpleAnalysis)
+
+n: 1000
+min: -9913
+max: 9983
+sum: 60124
+std: 5769.707110298061
+duplicates_count: 28
